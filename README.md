@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Go
 - 🤔 I’m looking for help with css
 - 💬 I like interesting project
-- 📫 How to reach me: zhaokaisx@gmail.com
+- 📫 How to reach me: deedokkc@gmail.com
 - ⚡ Fun fact: ...
